@@ -1,0 +1,11 @@
+# Dataset
+data/
+.kaggle/
+kaggle.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
